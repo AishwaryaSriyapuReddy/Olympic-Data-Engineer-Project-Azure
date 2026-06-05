@@ -15,3 +15,10 @@ Loaded Raw Data in Storage Account
 
 <br>
 
+Databricks for transformation
+<br>
+Tranformed data
+<br>
+
+<img width="734" height="266" alt="image" src="https://github.com/user-attachments/assets/3e565806-e9a5-436f-8f49-36038b1a5742" />
+<br>
