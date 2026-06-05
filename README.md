@@ -10,7 +10,8 @@ Datafactory Pipeline <br>
 <br>
 
 Loaded Raw Data in Storage Account
-<img width="752" height="279" alt="image" src="https://github.com/user-attachments/assets/c0738161-5f54-449d-9ab2-6a17ee951954" />
+<img width="719" height="270" alt="image" src="https://github.com/user-attachments/assets/05126cb9-9e13-4969-b8d2-f7b7f6533c0b" />
+
 
 <br>
 
